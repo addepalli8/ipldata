@@ -1,0 +1,229 @@
+***** FIRST QUESTION *****
+
+2016	Gujarat Lions - 8	|	2017	Kolkata Knight Riders - 9
+2016	Delhi Daredevils - 8	|	2017	Mumbai Indians - 9
+2016	Mumbai Indians - 7	|	2017	Rising Pune Supergiant - 6
+2016	Sunrisers Hyderabad - 7	|	2017	Gujarat Lions - 6
+
+***** SECOND QUESTION *****
+
+YEAR & TEAM: 2017 Kings XI Punjab	 No 4'S:  189	 No 6'S: 88	 TOTAL RUNS: 2208
+YEAR & TEAM: 2008 Royal Challengers Bangalore	 No 4'S:  187	 No 6'S: 59	 TOTAL RUNS: 1983
+YEAR & TEAM: 2011 Delhi Daredevils	 No 4'S:  185	 No 6'S: 75	 TOTAL RUNS: 2088
+YEAR & TEAM: 2013 Mumbai Indians	 No 4'S:  253	 No 6'S: 117	 TOTAL RUNS: 2976
+YEAR & TEAM: 2008 Kolkata Knight Riders	 No 4'S:  162	 No 6'S: 76	 TOTAL RUNS: 1942
+YEAR & TEAM: 2013 Rajasthan Royals	 No 4'S:  267	 No 6'S: 70	 TOTAL RUNS: 2706
+YEAR & TEAM: 2011 Kolkata Knight Riders	 No 4'S:  191	 No 6'S: 45	 TOTAL RUNS: 2024
+YEAR & TEAM: 2016 Royal Challengers Bangalore	 No 4'S:  240	 No 6'S: 142	 TOTAL RUNS: 2982
+YEAR & TEAM: 2016 Sunrisers Hyderabad	 No 4'S:  231	 No 6'S: 89	 TOTAL RUNS: 2669
+YEAR & TEAM: 2012 Chennai Super Kings	 No 4'S:  223	 No 6'S: 102	 TOTAL RUNS: 2831
+YEAR & TEAM: 2011 Rajasthan Royals	 No 4'S:  153	 No 6'S: 42	 TOTAL RUNS: 1684
+YEAR & TEAM: 2010 Delhi Daredevils	 No 4'S:  190	 No 6'S: 58	 TOTAL RUNS: 2155
+YEAR & TEAM: 2013 Kolkata Knight Riders	 No 4'S:  222	 No 6'S: 57	 TOTAL RUNS: 2291
+YEAR & TEAM: 2009 Kolkata Knight Riders	 No 4'S:  143	 No 6'S: 56	 TOTAL RUNS: 1773
+YEAR & TEAM: 2012 Kolkata Knight Riders	 No 4'S:  210	 No 6'S: 69	 TOTAL RUNS: 2505
+YEAR & TEAM: 2015 Mumbai Indians	 No 4'S:  242	 No 6'S: 120	 TOTAL RUNS: 2735
+YEAR & TEAM: 2013 Delhi Daredevils	 No 4'S:  211	 No 6'S: 52	 TOTAL RUNS: 2246
+YEAR & TEAM: 2013 Royal Challengers Bangalore	 No 4'S:  230	 No 6'S: 106	 TOTAL RUNS: 2602
+YEAR & TEAM: 2014 Rajasthan Royals	 No 4'S:  167	 No 6'S: 86	 TOTAL RUNS: 2163
+YEAR & TEAM: 2011 Deccan Chargers	 No 4'S:  194	 No 6'S: 48	 TOTAL RUNS: 2136
+YEAR & TEAM: 2011 Mumbai Indians	 No 4'S:  221	 No 6'S: 57	 TOTAL RUNS: 2289
+YEAR & TEAM: 2012 Pune Warriors	 No 4'S:  181	 No 6'S: 60	 TOTAL RUNS: 2322
+YEAR & TEAM: 2014 Kings XI Punjab	 No 4'S:  262	 No 6'S: 127	 TOTAL RUNS: 2988
+YEAR & TEAM: 2010 Rajasthan Royals	 No 4'S:  202	 No 6'S: 74	 TOTAL RUNS: 2180
+YEAR & TEAM: 2011 Kings XI Punjab	 No 4'S:  219	 No 6'S: 74	 TOTAL RUNS: 2225
+YEAR & TEAM: 2015 Rajasthan Royals	 No 4'S:  188	 No 6'S: 65	 TOTAL RUNS: 2140
+YEAR & TEAM: 2008 Chennai Super Kings	 No 4'S:  244	 No 6'S: 86	 TOTAL RUNS: 2521
+YEAR & TEAM: 2009 Kings XI Punjab	 No 4'S:  140	 No 6'S: 61	 TOTAL RUNS: 1928
+YEAR & TEAM: 2010 Mumbai Indians	 No 4'S:  261	 No 6'S: 75	 TOTAL RUNS: 2735
+YEAR & TEAM: 2016 Mumbai Indians	 No 4'S:  185	 No 6'S: 93	 TOTAL RUNS: 2194
+YEAR & TEAM: 2014 Kolkata Knight Riders	 No 4'S:  223	 No 6'S: 77	 TOTAL RUNS: 2500
+YEAR & TEAM: 2014 Royal Challengers Bangalore	 No 4'S:  165	 No 6'S: 92	 TOTAL RUNS: 2094
+YEAR & TEAM: 2013 Pune Warriors	 No 4'S:  190	 No 6'S: 76	 TOTAL RUNS: 2263
+YEAR & TEAM: 2016 Gujarat Lions	 No 4'S:  242	 No 6'S: 63	 TOTAL RUNS: 2451
+YEAR & TEAM: 2015 Kings XI Punjab	 No 4'S:  147	 No 6'S: 79	 TOTAL RUNS: 2019
+YEAR & TEAM: 2012 Kings XI Punjab	 No 4'S:  226	 No 6'S: 61	 TOTAL RUNS: 2391
+YEAR & TEAM: 2017 Mumbai Indians	 No 4'S:  225	 No 6'S: 118	 TOTAL RUNS: 2800
+YEAR & TEAM: 2012 Delhi Daredevils	 No 4'S:  232	 No 6'S: 97	 TOTAL RUNS: 2645
+YEAR & TEAM: 2015 Delhi Daredevils	 No 4'S:  188	 No 6'S: 84	 TOTAL RUNS: 2169
+YEAR & TEAM: 2013 Chennai Super Kings	 No 4'S:  241	 No 6'S: 84	 TOTAL RUNS: 2778
+YEAR & TEAM: 2017 Sunrisers Hyderabad	 No 4'S:  220	 No 6'S: 70	 TOTAL RUNS: 2350
+YEAR & TEAM: 2011 Royal Challengers Bangalore	 No 4'S:  225	 No 6'S: 94	 TOTAL RUNS: 2469
+YEAR & TEAM: 2009 Deccan Chargers	 No 4'S:  173	 No 6'S: 99	 TOTAL RUNS: 2409
+YEAR & TEAM: 2012 Rajasthan Royals	 No 4'S:  246	 No 6'S: 69	 TOTAL RUNS: 2515
+YEAR & TEAM: 2015 Kolkata Knight Riders	 No 4'S:  206	 No 6'S: 64	 TOTAL RUNS: 2044
+YEAR & TEAM: 2009 Chennai Super Kings	 No 4'S:  192	 No 6'S: 73	 TOTAL RUNS: 2232
+YEAR & TEAM: 2008 Deccan Chargers	 No 4'S:  205	 No 6'S: 92	 TOTAL RUNS: 2229
+YEAR & TEAM: 2009 Rajasthan Royals	 No 4'S:  148	 No 6'S: 47	 TOTAL RUNS: 1707
+YEAR & TEAM: 2010 Chennai Super Kings	 No 4'S:  212	 No 6'S: 98	 TOTAL RUNS: 2605
+YEAR & TEAM: 2012 Deccan Chargers	 No 4'S:  188	 No 6'S: 77	 TOTAL RUNS: 2309
+YEAR & TEAM: 2014 Sunrisers Hyderabad	 No 4'S:  167	 No 6'S: 72	 TOTAL RUNS: 2103
+YEAR & TEAM: 2011 Kochi Tuskers Kerala	 No 4'S:  170	 No 6'S: 53	 TOTAL RUNS: 1901
+YEAR & TEAM: 2016 Delhi Daredevils	 No 4'S:  179	 No 6'S: 65	 TOTAL RUNS: 2101
+YEAR & TEAM: 2012 Royal Challengers Bangalore	 No 4'S:  186	 No 6'S: 118	 TOTAL RUNS: 2473
+YEAR & TEAM: 2008 Delhi Daredevils	 No 4'S:  218	 No 6'S: 54	 TOTAL RUNS: 2119
+YEAR & TEAM: 2016 Kolkata Knight Riders	 No 4'S:  194	 No 6'S: 65	 TOTAL RUNS: 2264
+YEAR & TEAM: 2012 Mumbai Indians	 No 4'S:  219	 No 6'S: 80	 TOTAL RUNS: 2463
+YEAR & TEAM: 2017 Rising Pune Supergiant	 No 4'S:  197	 No 6'S: 89	 TOTAL RUNS: 2470
+YEAR & TEAM: 2017 Delhi Daredevils	 No 4'S:  202	 No 6'S: 87	 TOTAL RUNS: 2220
+YEAR & TEAM: 2008 Kings XI Punjab	 No 4'S:  231	 No 6'S: 95	 TOTAL RUNS: 2461
+YEAR & TEAM: 2017 Gujarat Lions	 No 4'S:  218	 No 6'S: 92	 TOTAL RUNS: 2413
+YEAR & TEAM: 2017 Kolkata Knight Riders	 No 4'S:  228	 No 6'S: 87	 TOTAL RUNS: 2484
+YEAR & TEAM: 2017 Royal Challengers Bangalore	 No 4'S:  133	 No 6'S: 75	 TOTAL RUNS: 1845
+YEAR & TEAM: 2009 Delhi Daredevils	 No 4'S:  188	 No 6'S: 51	 TOTAL RUNS: 2132
+YEAR & TEAM: 2013 Sunrisers Hyderabad	 No 4'S:  196	 No 6'S: 54	 TOTAL RUNS: 2318
+YEAR & TEAM: 2010 Kings XI Punjab	 No 4'S:  234	 No 6'S: 58	 TOTAL RUNS: 2288
+YEAR & TEAM: 2014 Chennai Super Kings	 No 4'S:  205	 No 6'S: 112	 TOTAL RUNS: 2650
+YEAR & TEAM: 2013 Kings XI Punjab	 No 4'S:  244	 No 6'S: 65	 TOTAL RUNS: 2425
+YEAR & TEAM: 2010 Royal Challengers Bangalore	 No 4'S:  214	 No 6'S: 77	 TOTAL RUNS: 2402
+YEAR & TEAM: 2016 Rising Pune Supergiants	 No 4'S:  171	 No 6'S: 68	 TOTAL RUNS: 2060
+YEAR & TEAM: 2014 Delhi Daredevils	 No 4'S:  177	 No 6'S: 63	 TOTAL RUNS: 2082
+YEAR & TEAM: 2008 Mumbai Indians	 No 4'S:  197	 No 6'S: 76	 TOTAL RUNS: 2081
+YEAR & TEAM: 2011 Chennai Super Kings	 No 4'S:  204	 No 6'S: 91	 TOTAL RUNS: 2561
+YEAR & TEAM: 2010 Deccan Chargers	 No 4'S:  197	 No 6'S: 84	 TOTAL RUNS: 2375
+YEAR & TEAM: 2015 Sunrisers Hyderabad	 No 4'S:  185	 No 6'S: 79	 TOTAL RUNS: 2210
+YEAR & TEAM: 2009 Royal Challengers Bangalore	 No 4'S:  192	 No 6'S: 67	 TOTAL RUNS: 2281
+YEAR & TEAM: 2014 Mumbai Indians	 No 4'S:  197	 No 6'S: 86	 TOTAL RUNS: 2352
+YEAR & TEAM: 2016 Kings XI Punjab	 No 4'S:  191	 No 6'S: 54	 TOTAL RUNS: 2134
+YEAR & TEAM: 2010 Kolkata Knight Riders	 No 4'S:  199	 No 6'S: 63	 TOTAL RUNS: 2145
+YEAR & TEAM: 2009 Mumbai Indians	 No 4'S:  145	 No 6'S: 54	 TOTAL RUNS: 1897
+YEAR & TEAM: 2015 Chennai Super Kings	 No 4'S:  249	 No 6'S: 96	 TOTAL RUNS: 2726
+YEAR & TEAM: 2008 Rajasthan Royals	 No 4'S:  259	 No 6'S: 85	 TOTAL RUNS: 2602
+YEAR & TEAM: 2015 Royal Challengers Bangalore	 No 4'S:  206	 No 6'S: 105	 TOTAL RUNS: 2312
+YEAR & TEAM: 2011 Pune Warriors	 No 4'S:  154	 No 6'S: 60	 TOTAL RUNS: 1776
+
+***** THIRD    QUESTION *****
+
+******2008******
+YEAR: 2008 Sohail Tanvir = 6.068182 
+YEAR: 2008 DW Steyn = 6.1463413 
+YEAR: 2008 IK Pathan = 6.196429 
+YEAR: 2008 SC Ganguly = 6.4 
+YEAR: 2008 AB Dinda = 6.5 
+YEAR: 2008 SM Pollock = 6.5652175 
+YEAR: 2008 M Muralitharan = 6.622951 
+YEAR: 2008 GD McGrath = 6.6296296 
+YEAR: 2008 SR Watson = 6.6666665 
+YEAR: 2008 MF Maharoof = 6.756757 
+
+******2009******
+YEAR: 2009 B Lee = 5.090909 
+YEAR: 2009 M Muralitharan = 5.24 
+YEAR: 2009 JP Duminy = 5.470588 
+YEAR: 2009 A Singh = 5.647059 
+YEAR: 2009 M Kartik = 5.7714286 
+YEAR: 2009 SL Malinga = 5.796296 
+YEAR: 2009 Harbhajan Singh = 5.818182 
+YEAR: 2009 A Kumble = 5.881356 
+YEAR: 2009 MF Maharoof = 6.0 
+YEAR: 2009 RR Powar = 6.0 
+
+******2010******
+YEAR: 2010 R Ashwin = 5.979592 
+YEAR: 2010 DP Nannes = 6.2222223 
+YEAR: 2010 WPUJC Vaas = 6.3636365 
+YEAR: 2010 AB Dinda = 6.375 
+YEAR: 2010 A Kumble = 6.375 
+YEAR: 2010 DW Steyn = 6.4444447 
+YEAR: 2010 DE Bollinger = 6.5 
+YEAR: 2010 M Kartik = 6.5128207 
+YEAR: 2010 Yuvraj Singh = 6.6086955 
+YEAR: 2010 M Muralitharan = 6.647059 
+
+******2011******
+YEAR: 2011 R Sharma = 5.48 
+YEAR: 2011 SL Malinga = 5.681818 
+YEAR: 2011 AG Murtaza = 5.9 
+YEAR: 2011 YK Pathan = 5.95 
+YEAR: 2011 DL Vettori = 6.0 
+YEAR: 2011 Bipul Sharma = 6.0 
+YEAR: 2011 R Ashwin = 6.078125 
+YEAR: 2011 S Sreesanth = 6.0882354 
+YEAR: 2011 Iqbal Abdulla = 6.12 
+YEAR: 2011 B Kumar = 6.181818 
+
+******2012******
+YEAR: 2012 L Balaji = 5.2580647 
+YEAR: 2012 SP Narine = 5.5084743 
+YEAR: 2012 SW Tait = 5.8461537 
+YEAR: 2012 DW Steyn = 5.9583335 
+YEAR: 2012 SL Malinga = 6.034483 
+YEAR: 2012 MJ Clarke = 6.090909 
+YEAR: 2012 RE van der Merwe = 6.1 
+YEAR: 2012 WD Parnell = 6.142857 
+YEAR: 2012 AB McDonald = 6.2 
+YEAR: 2012 A Chandila = 6.214286 
+
+******2013******
+YEAR: 2013 SP Narine = 5.484375 
+YEAR: 2013 DW Steyn = 5.714286 
+YEAR: 2013 VS Malik = 5.8 
+YEAR: 2013 S Nadeem = 5.909091 
+YEAR: 2013 RJ Harris = 6.0833335 
+YEAR: 2013 RE van der Merwe = 6.181818 
+YEAR: 2013 A Chandila = 6.28 
+YEAR: 2013 B Kumar = 6.2881355 
+YEAR: 2013 P Kumar = 6.338983 
+YEAR: 2013 J Botha = 6.352941 
+
+******2014******
+YEAR: 2014 AR Patel = 6.044776 
+YEAR: 2014 Harbhajan Singh = 6.375 
+YEAR: 2014 Z Khan = 6.3913045 
+YEAR: 2014 SL Malinga = 6.425 
+YEAR: 2014 SP Narine = 6.4461536 
+YEAR: 2014 Shakib Al Hasan = 6.54902 
+YEAR: 2014 B Kumar = 6.5740743 
+YEAR: 2014 P Kumar = 6.5833335 
+YEAR: 2014 S Badree = 6.928571 
+YEAR: 2014 R Ashwin = 6.9365077 
+
+******2015******
+YEAR: 2015 R Ashwin = 5.7 
+YEAR: 2015 MC Henriques = 6.076923 
+YEAR: 2015 Z Khan = 6.24 
+YEAR: 2015 MA Starc = 6.4888887 
+YEAR: 2015 Sandeep Sharma = 6.882353 
+YEAR: 2015 GB Hogg = 6.904762 
+YEAR: 2015 M Morkel = 7.0 
+YEAR: 2015 A Nehra = 7.03125 
+YEAR: 2015 SL Malinga = 7.047619 
+YEAR: 2015 IC Pandey = 7.096774 
+
+******2016******
+YEAR: 2016 CH Gayle = 6.4 
+YEAR: 2016 A Zampa = 6.7647057 
+YEAR: 2016 Mustafizur Rahman = 6.774194 
+YEAR: 2016 CH Morris = 6.8444443 
+YEAR: 2016 R Ashwin = 6.9565215 
+YEAR: 2016 BCJ Cutting = 7.0 
+YEAR: 2016 SP Narine = 7.0697675 
+YEAR: 2016 S Aravind = 7.1 
+YEAR: 2016 B Kumar = 7.1014495 
+YEAR: 2016 Sandeep Sharma = 7.1960783 
+
+******2017******
+YEAR: 2017 Mohammad Nabi = 4.818182 
+YEAR: 2017 P Negi = 6.0 
+YEAR: 2017 Washington Sundar = 6.2 
+YEAR: 2017 GJ Maxwell = 6.4210525 
+YEAR: 2017 Harbhajan Singh = 6.512195 
+YEAR: 2017 KH Pandya = 6.634146 
+YEAR: 2017 Rashid Khan = 6.648148 
+YEAR: 2017 S Nadeem = 6.6666665 
+YEAR: 2017 LH Ferguson = 6.714286 
+YEAR: 2017 AJ Tye = 6.714286 
+
+***** FOURTH    QUESTION *****
+
+2008 Rajasthan Royals = 0.78595304
+2009 Chennai Super Kings = 0.46432066
+2010 Mumbai Indians = 0.70524216
+2011 Chennai Super Kings = 0.5293212
+2012 Kolkata Knight Riders = 0.45388317
+2013 Chennai Super Kings = 0.543931
+2014 Kings XI Punjab = 0.61474895
+2015 Royal Challengers Bangalore = 0.71662045
+2016 Royal Challengers Bangalore = 0.9411297
+2017 Mumbai Indians = 0.52046824
+BUILD SUCCESSFUL (total time: 16 seconds)
